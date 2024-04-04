@@ -1,0 +1,136 @@
+2024-04-04 22:15:49.1027|DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory|Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.TryParseModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider
+2024-04-04 22:15:49.1536|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting starting
+2024-04-04 22:15:49.2426|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5099
+2024-04-04 22:15:49.2426|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly sosisochka13
+2024-04-04 22:15:49.2426|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+2024-04-04 22:15:49.2426|DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+2024-04-04 22:15:49.2426|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2024-04-04 22:15:49.2426|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2024-04-04 22:15:49.2426|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\socut\source\repos\sosisochka13\sosisochka13
+2024-04-04 22:15:49.2426|DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting started
+2024-04-04 22:15:49.7124|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2KREHNN2KO" accepted.
+2024-04-04 22:15:49.7124|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2KREHNN2KN" accepted.
+2024-04-04 22:15:49.7124|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2KREHNN2KO" started.
+2024-04-04 22:15:49.7124|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2KREHNN2KN" started.
+2024-04-04 22:15:49.7270|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2KREHNN2KO" received FIN.
+2024-04-04 22:15:49.7270|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2KREHNN2KN" received FIN.
+2024-04-04 22:15:49.7270|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2KREHNN2KO" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-04-04 22:15:49.7270|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets|Connection id "0HN2KREHNN2KN" sending FIN because: "The Socket transport's send loop completed gracefully."
+2024-04-04 22:15:49.7270|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2KREHNN2KN" disconnecting.
+2024-04-04 22:15:49.7270|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2KREHNN2KO" disconnecting.
+2024-04-04 22:15:49.7270|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2KREHNN2KO" stopped.
+2024-04-04 22:15:49.7270|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2KREHNN2KN" stopped.
+2024-04-04 22:15:50.4589|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2KREHNN2KP" accepted.
+2024-04-04 22:15:50.4589|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2KREHNN2KP" started.
+2024-04-04 22:15:50.4777|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5099/swagger/index.html - - -
+2024-04-04 22:15:50.5324|DEBUG|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|Wildcard detected, all requests with hosts will be allowed.
+2024-04-04 22:15:50.5324|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-04 22:15:50.5390|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/swagger/index.html'
+2024-04-04 22:15:50.5390|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints
+2024-04-04 22:15:50.5890|DEBUG|Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware|Response markup is scheduled to include Browser Link script injection.
+2024-04-04 22:15:50.5890|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection.
+2024-04-04 22:15:50.5890|DEBUG|Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware|Response markup was updated to include Browser Link script injection.
+2024-04-04 22:15:50.5890|DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection.
+2024-04-04 22:15:50.5890|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2KREHNN2KP" completed keep alive response.
+2024-04-04 22:15:50.5890|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5099/swagger/index.html - 200 - text/html;charset=utf-8 125.7574ms
+2024-04-04 22:15:50.6107|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5099/_framework/aspnetcore-browser-refresh.js - - -
+2024-04-04 22:15:50.6107|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2KREHNN2KP" completed keep alive response.
+2024-04-04 22:15:50.6107|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5099/_framework/aspnetcore-browser-refresh.js - 200 13760 application/javascript;+charset=utf-8 2.3473ms
+2024-04-04 22:15:50.6244|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5099/_vs/browserLink - - -
+2024-04-04 22:15:50.6475|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2KREHNN2KP" completed keep alive response.
+2024-04-04 22:15:50.6475|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5099/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 23.3592ms
+2024-04-04 22:15:50.7922|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5099/swagger/v1/swagger.json - - -
+2024-04-04 22:15:50.7922|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-04 22:15:50.7922|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/swagger/v1/swagger.json'
+2024-04-04 22:15:50.7922|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints
+2024-04-04 22:15:50.8508|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2KREHNN2KP" completed keep alive response.
+2024-04-04 22:15:50.8508|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5099/swagger/v1/swagger.json - 200 - application/json;charset=utf-8 58.7940ms
+2024-04-04 22:16:17.2324|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5099/WeatherForecast - - -
+2024-04-04 22:16:17.2324|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-04 22:16:17.2324|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/WeatherForecast'
+2024-04-04 22:16:17.2324|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'sosisochka13.Controllers.WeatherForecastController.Get (sosisochka13)' with route pattern 'WeatherForecast' is valid for the request path '/WeatherForecast'
+2024-04-04 22:16:17.2324|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'sosisochka13.Controllers.WeatherForecastController.Get (sosisochka13)'
+2024-04-04 22:16:17.2324|TRACE|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|The endpoint does not specify the IRequestSizeLimitMetadata.
+2024-04-04 22:16:17.2421|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint.
+2024-04-04 22:16:17.2421|WARN|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect.
+2024-04-04 22:16:17.2421|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'sosisochka13.Controllers.WeatherForecastController.Get (sosisochka13)'
+2024-04-04 22:16:17.2421|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[sosisochka13.WeatherForecast] Get() on controller sosisochka13.Controllers.WeatherForecastController (sosisochka13).
+2024-04-04 22:16:17.2421|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None
+2024-04-04 22:16:17.2421|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): None
+2024-04-04 22:16:17.2421|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2024-04-04 22:16:17.2421|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None
+2024-04-04 22:16:17.2421|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-04-04 22:16:17.2421|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller sosisochka13.Controllers.WeatherForecastController (sosisochka13)
+2024-04-04 22:16:17.2572|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller sosisochka13.Controllers.WeatherForecastController (sosisochka13)
+2024-04-04 22:16:17.2572|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-04-04 22:16:17.2572|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-04-04 22:16:17.2572|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-04-04 22:16:17.2572|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-04-04 22:16:17.2572|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method sosisochka13.Controllers.WeatherForecastController.Get (sosisochka13) - Validation state: Valid
+2024-04-04 22:16:17.2572|FATAL|sosisochka13.Controllers.WeatherForecastController|sosisochkaheh
+2024-04-04 22:16:17.3940|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method sosisochka13.Controllers.WeatherForecastController.Get (sosisochka13), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 130.565ms.
+2024-04-04 22:16:17.3940|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-04-04 22:16:17.3940|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-04-04 22:16:17.3940|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-04-04 22:16:17.3940|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-04-04 22:16:17.3940|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-04-04 22:16:17.3940|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-04-04 22:16:17.3940|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ObjectResult.
+2024-04-04 22:16:17.3940|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter
+2024-04-04 22:16:17.3975|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select an output formatter based on Accept header 'text/plain'.
+2024-04-04 22:16:17.3975|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Could not find an output formatter based on content negotiation. Accepted types were (text/plain)
+2024-04-04 22:16:17.3975|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-04-04 22:16:17.3975|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select the first formatter in the output formatters list which can write the result.
+2024-04-04 22:16:17.3975|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-04-04 22:16:17.3975|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'sosisochka13.WeatherForecast[]'.
+2024-04-04 22:16:17.3975|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ObjectResult.
+2024-04-04 22:16:17.3975|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-04-04 22:16:17.3975|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-04-04 22:16:17.3975|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action sosisochka13.Controllers.WeatherForecastController.Get (sosisochka13) in 149.0992ms
+2024-04-04 22:16:17.3975|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'sosisochka13.Controllers.WeatherForecastController.Get (sosisochka13)'
+2024-04-04 22:16:17.3975|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2KREHNN2KP" completed keep alive response.
+2024-04-04 22:16:17.3975|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5099/WeatherForecast - 200 - application/json;+charset=utf-8 175.1688ms
+2024-04-04 22:16:20.5442|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:5099/WeatherForecast - - -
+2024-04-04 22:16:20.5442|TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed.
+2024-04-04 22:16:20.5442|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/WeatherForecast'
+2024-04-04 22:16:20.5442|DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'sosisochka13.Controllers.WeatherForecastController.Get (sosisochka13)' with route pattern 'WeatherForecast' is valid for the request path '/WeatherForecast'
+2024-04-04 22:16:20.5442|DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'sosisochka13.Controllers.WeatherForecastController.Get (sosisochka13)'
+2024-04-04 22:16:20.5442|TRACE|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|The endpoint does not specify the IRequestSizeLimitMetadata.
+2024-04-04 22:16:20.5442|DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Static files was skipped as the request already matched an endpoint.
+2024-04-04 22:16:20.5442|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'sosisochka13.Controllers.WeatherForecastController.Get (sosisochka13)'
+2024-04-04 22:16:20.5442|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Get", controller = "WeatherForecast"}. Executing controller action with signature System.Collections.Generic.IEnumerable`1[sosisochka13.WeatherForecast] Get() on controller sosisochka13.Controllers.WeatherForecastController (sosisochka13).
+2024-04-04 22:16:20.5442|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None
+2024-04-04 22:16:20.5442|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): None
+2024-04-04 22:16:20.5442|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000), Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter (Order: -2000)
+2024-04-04 22:16:20.5442|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None
+2024-04-04 22:16:20.5442|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter (Order: -2000)
+2024-04-04 22:16:20.5442|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller sosisochka13.Controllers.WeatherForecastController (sosisochka13)
+2024-04-04 22:16:20.5442|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller sosisochka13.Controllers.WeatherForecastController (sosisochka13)
+2024-04-04 22:16:20.5442|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-04-04 22:16:20.5442|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-04-04 22:16:20.5442|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-04-04 22:16:20.5442|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-04-04 22:16:20.5442|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method sosisochka13.Controllers.WeatherForecastController.Get (sosisochka13) - Validation state: Valid
+2024-04-04 22:16:20.5442|FATAL|sosisochka13.Controllers.WeatherForecastController|sosisochkaheh
+2024-04-04 22:16:20.5442|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method sosisochka13.Controllers.WeatherForecastController.Get (sosisochka13), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 3.2246ms.
+2024-04-04 22:16:20.5442|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-04-04 22:16:20.5442|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter.
+2024-04-04 22:16:20.5442|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-04-04 22:16:20.5442|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter.
+2024-04-04 22:16:20.5442|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-04-04 22:16:20.5442|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-04-04 22:16:20.5442|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ObjectResult.
+2024-04-04 22:16:20.5442|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|List of registered output formatters, in the following order: Microsoft.AspNetCore.Mvc.Formatters.HttpNoContentOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StringOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.StreamOutputFormatter, Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter
+2024-04-04 22:16:20.5442|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select an output formatter based on Accept header 'text/plain'.
+2024-04-04 22:16:20.5442|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Could not find an output formatter based on content negotiation. Accepted types were (text/plain)
+2024-04-04 22:16:20.5442|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select an output formatter without using a content type as no explicit content types were specified for the response.
+2024-04-04 22:16:20.5442|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Attempting to select the first formatter in the output formatters list which can write the result.
+2024-04-04 22:16:20.5442|DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.DefaultOutputFormatterSelector|Selected output formatter 'Microsoft.AspNetCore.Mvc.Formatters.SystemTextJsonOutputFormatter' and content type 'application/json' to write the response.
+2024-04-04 22:16:20.5442|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ObjectResultExecutor|Executing ObjectResult, writing value of type 'sosisochka13.WeatherForecast[]'.
+2024-04-04 22:16:20.5442|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ObjectResult.
+2024-04-04 22:16:20.5442|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-04-04 22:16:20.5442|TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.Infrastructure.ClientErrorResultFilter.
+2024-04-04 22:16:20.5442|INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action sosisochka13.Controllers.WeatherForecastController.Get (sosisochka13) in 4.4489ms
+2024-04-04 22:16:20.5442|INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'sosisochka13.Controllers.WeatherForecastController.Get (sosisochka13)'
+2024-04-04 22:16:20.5442|DEBUG|Microsoft.AspNetCore.Server.Kestrel.Connections|Connection id "0HN2KREHNN2KP" completed keep alive response.
+2024-04-04 22:16:20.5442|INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:5099/WeatherForecast - 200 - application/json;+charset=utf-8 5.6768ms
